@@ -2,7 +2,8 @@
 We are pawns playing a game of life or death
 
 ![buh](https://github.com/nicolasbaez/Checkered-screen/blob/main/xp065.gif)
-```javascriptsetup = (_) => createCanvas((w = 500), w);
+```javascript
+setup = (_) => createCanvas((w = 500), w);
 k = 0;
 draw = (_) => {
   c = w / 10;
